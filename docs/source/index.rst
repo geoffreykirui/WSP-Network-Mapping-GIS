@@ -1,4 +1,4 @@
-Welcome to Lumache's documentation!
+WSP-Network-Mapping-GIS
 ===================================
 
 **Lumache** (/lu'make/) is a Python library for cooks and food lovers
